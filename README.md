@@ -1,7 +1,7 @@
 # bioinformatics_course
 ## **this is my page for my bioinformatics course**  
 ### week 1 setup
-- notes
+- notes:  
   learned about the advantages and disadvantages of some system or languages,such as *linux*、*R*、*markdown*  
   learned about the differences between algorithm and model:  
   - algorithm: The specific steps and computational methods to solve a problem. It's like a recipe that tells what to do first, what to do next.
